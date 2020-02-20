@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>SDI:bus</name>
+	<LookAt>
+		<longitude>78.74574346575372</longitude>
+		<latitude>72.08769909635547</latitude>
+		<altitude>4867286.035586745</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>3933022.41403655</range>
+	</LookAt>
+	<GroundOverlay>
+		<name>SDI:bus</name>
+		<Icon>
+			<href>http://50cr017.sims.cranfield.ac.uk:8080/geoserver/SDI/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=image%2Fpng&amp;layers=SDI%3Abus&amp;styles=point&amp;height=888&amp;width=2048&amp;transparent=true&amp;bbox=-1.673533281793333%2C50.50621054440266%2C-0.9062961204845632%2C50.83857361905624&amp;srs=EPSG%3A4326&amp;format_options=AUTOFIT%3Atrue%3BKMATTR%3Atrue%3BKMPLACEMARK%3Afalse%3BKMSCORE%3A40%3BMODE%3Arefresh%3BSUPEROVERLAY%3Afalse</href>
+			<refreshInterval>0</refreshInterval>
+			<viewRefreshTime>0</viewRefreshTime>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.83857361905624</north>
+			<south>50.50621054440266</south>
+			<east>-0.9062961204845632</east>
+			<west>-1.673533281793333</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>
