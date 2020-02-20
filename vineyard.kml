@@ -6,7 +6,7 @@
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/convenience.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -31,7 +31,7 @@
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/convenience.png</href>
+				<href>http://http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
