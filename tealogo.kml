@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tealogo.kml</name>
+	<StyleMap id="msn_1786675">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1786675</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1786675</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_1786675">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://image.flaticon.com/icons/png/512/1786/1786675.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>000055ff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_1786675">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://image.flaticon.com/icons/png/512/1786/1786675.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>000055ff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark id="MrsJonesTeaDepot">
+		<name>Mrs Jones Tea Depot</name>
+		<description><![CDATA[<img style="max-width:500px;" src="file:///C:/iow/bike/images/tea_depot.jpg">]]></description>
+		<LookAt>
+			<longitude>-1.290795487782633</longitude>
+			<latitude>50.68571314583346</latitude>
+			<altitude>0</altitude>
+			<heading>0.8820731447201691</heading>
+			<tilt>0</tilt>
+			<range>39334.28345692103</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_1786675</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-1.292791682313776,50.7580815828271,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>vineyardlogo.kml</name>
+	<Style id="sh_grapes-white-512">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://cdn4.iconfinder.com/data/icons/nature-life-in-color/128/grapes-white-512.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>000055ff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grapes-white-512">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://cdn4.iconfinder.com/data/icons/nature-life-in-color/128/grapes-white-512.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>000055ff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grapes-white-512">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grapes-white-512</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grapes-white-512</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="AgestoneVineyard">
+		<name>Agestone Vineyard</name>
+		<description><![CDATA[<img style="max-width:500px;" src="file:///C:/iow/bike/images/adgestone.jpg">]]></description>
+		<LookAt>
+			<longitude>-1.129453062781534</longitude>
+			<latitude>50.68585880293958</latitude>
+			<altitude>0</altitude>
+			<heading>0.6979877063301447</heading>
+			<tilt>13.33750984025091</tilt>
+			<range>10519.87646888629</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_grapes-white-512</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-1.14547065677625,50.6742645850097,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>lodgelogo.kml</name>
+	<Style id="sn_8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://images.vexels.com/media/users/3/152005/isolated/preview/8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>000055ff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://images.vexels.com/media/users/3/152005/isolated/preview/8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>000055ff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="DimbolaLodgeTearooms">
+		<name>Dimbola Lodge Tearooms</name>
+		<description><![CDATA[<img style="max-width:500px;" src="file:///C:/iow/bike/images/dimbola.jpg">]]></description>
+		<LookAt>
+			<longitude>-1.469002288626999</longitude>
+			<latitude>50.66468823744343</latitude>
+			<altitude>0</altitude>
+			<heading>0.4443854133611302</heading>
+			<tilt>0</tilt>
+			<range>39307.46801983099</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_8aec882fe06bdc7f855d8fd56676f12a-tea-biscuit-icon-by-vexels</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-1.514330632423097,50.67514796611815,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
